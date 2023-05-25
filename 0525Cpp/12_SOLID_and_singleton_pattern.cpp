@@ -14,7 +14,9 @@
 /*
 	디자인 패턴 - 게임만들때 어느 형식으로 만들지 봐두면 편함
 
-	- singleton pattern : 개방폐쇄원칙에 어긋남
+	- singleton pattern : 클래스의 생성을 1개로 정한다.
+		클래스의 객체는 ststic으로 생성한다.
+		개방폐쇄원칙에 어긋남
 */
 
 using namespace std;
